@@ -1,2 +1,1 @@
-# study
-study
+YPositiv.github.io/study/index.html
